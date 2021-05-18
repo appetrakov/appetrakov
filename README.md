@@ -1,17 +1,20 @@
 # Anton Petrakov, iOS Developer
-Based in Kaliningrad 🇷🇺, 👨‍💻 Work Globally.  
+Located in Kaliningrad 🇷🇺, work globally 👨‍💻.
 
-📫 email: [appetrakov@ya.ru](mailto:appetrakov@ya.ru)  
+📫 e-mail: [appetrakov@ya.ru](mailto:appetrakov@ya.ru)  
 💬 telegram: [apetrakov](https://t.me/apetrakov)
 
 # Summary
 
-In addition to the usual knowledge of iOS developers, I have extensive experience in improving the quality of the product. 
-In my portfolio there are more than 30 successful projects on Objective-C and Swift. Adapted and taught a mobile development course at the university. 
+A Software Engineer with in-depth knowledge of iOS development, I have 10 years of experience with an extensive track record of improving UX of mobile applications.
 
-Project success is my primary goal on every project is great business tool to help with that. 
-The basic principle of work is to make product as simple as possible, the only way it can grow into something bigger.
-In spare time im Interesting in tech, investment, photos, travelling and blogging.
+My portfolio contains more than 30 successful projects on Objective-C and Swift. Outsite of work I teach my own adapted mobile development course in local university.
+
+At work I go by few common principles:
+* Deliver projects in time without sacrificing quality
+* Simplify first, then grow it into something bigger
+
+I enjoy my spare time researching tech, making investments, practicing photography, travelling and blogging.
 
 Languages: 🇷🇺 - native, 🇬🇧 - B1.
 
@@ -21,46 +24,45 @@ Languages: 🇷🇺 - native, 🇬🇧 - B1.
 
 **iOS Developer**, [KОDE](https://kode.ru), *Kaliningrad* 🇷🇺
 
-KODE develops applications, websites, voice interfaces, and IT solutions for businesses. 
-As part of the company, he participated in the design and development of more than 20 successful projects. 
-Have direct experience in:
+KODE develops applications, websites, voice interfaces and IT solutions for business.
+As part of different teams, I've particiated in, designed, developed and delivered more than 20 successful projects in dozen of domains like banking, finance, cryptocurrency, messaging, calls, navigation and etc.
 
-- Banking, finance, cryptocurrency, messaging, calls, navigation and other apps
-- Mentoring and code review for junior developers
+Have also experience in:
+- Mentoring junior developers
 - Architecture design and project evaluation
 
 
-
-### 2015 - Present
+### Jan 2015 - Present
 
 **Freelance Developer**, *Remote* 🌍, *part-time*
 
-Work as remote iOS Developer for different clients around the world.
-Each new order is challenge, the choice of the best solution in the optimal time.
-
+Since 2015 I act as a remote freelance iOS developer, accepting the work I find interesting. On every project I challenge myself to find the best and the most optimal solution respecting the time and budget constraints.
 
 
 ### Jan 2014 - Aug 2016
 
 **iOS Developer**, Dynamic Technologies, *Astana* 🇰🇿
 
-Participation in the development of large private applications for the business segment.
+* Developed iOS client of a document management software for enterprise/government segments
+* Developed iOS client of a railroad maintenance software for state entity
 
 
+### Aug 2010 - Dec 2013
 
-### Dec 2013 - Aug 2010
+**QA Engineer**, Dynamics Technologies, *Astana* 🇰🇿
 
-**QA Engineer**, Dynamic Technologies, *Astana* 🇰🇿
+During my test engineer experince I performed the following duties:
+* Test mobile applications for iOS and Android platforms
+* Create and maintain testing documentation: test plans, test runs with results, receipt and acceptance documentation
+* Automated testing: develop new and adapt existing testing scenarios for MS Visual Studio, conduct load and stress tests
 
-Testing of mobile applications IOS, Android
-Creation test documentation: test plans, test, test results reporting, receipt and acceptance documentation. 
-Scenario development and adaptation scenarios for MS VisualStudio, conduct load and stress test.
 
 # Education
 
 ### 2006-2010
 
 **L.N.Gumilyov Eurasian National University**, *Astana* 🇰🇿
+Bachelor of Engineering and Technology, specialization in Computer Science
 
-Computer Engineering Bachelor's Degree
-My graduate work was the Voice Recognition project. The program allowed to parse a voice message into text. Graduated with honors and immediately got his first job at one of the largest companies in region - *Dynamic Technologies*.
+Implemented Voice Recognition software as the Diploma thesis. It supported converting recorded voice messages into text.
+Graduated with honors and immediately got my first job at one of the largest IT companies in Astana - *Dynamics Technologies*.
